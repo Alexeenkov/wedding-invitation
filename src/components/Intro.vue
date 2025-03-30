@@ -1,0 +1,1 @@
+<template><IcoIntroWedding /></template><script setup>import IcoIntroWedding from "@/components/icons/IcoIntroWedding.vue";</script><style scoped lang="scss">.test {  font-family: 'Unutterable', 'Arial', sans-serif;}</style>

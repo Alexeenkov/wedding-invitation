@@ -9,7 +9,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  publicPath: '/wedding-invitation/',
+  base: '/wedding-invitation/',
   css: {
     preprocessorOptions: {
       scss: {

@@ -1,3 +1,3 @@
 <template>
-  <routerView class="app"/>
+  <RouterView class="app"/>
 </template>

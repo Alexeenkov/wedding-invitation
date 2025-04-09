@@ -1,0 +1,1 @@
+export const QR_CODES = {    '?n1=%D0%AE%D0%BB%D1%8F&n2=%D0%A1%D0%B0%D1%88%D0%B0': 'Julia&Sasha',    '?n1=%D0%9C%D0%B0%D0%BC%D0%B0&n2=%D0%9F%D0%B0%D0%BF%D0%B0': 'Mom&Dad',}

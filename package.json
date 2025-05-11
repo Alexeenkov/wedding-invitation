@@ -23,5 +23,6 @@
     "sass": "^1.86.0",
     "sass-loader": "^16.0.5",
     "vite": "^6.2.0"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
